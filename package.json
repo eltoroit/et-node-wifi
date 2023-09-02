@@ -1,6 +1,6 @@
 {
-  "name": "node-wifi",
-  "version": "2.0.16",
+  "name": "et-node-wifi",
+  "version": "2.0.17",
   "description": "NodeJS tool to manage wifi",
   "keywords": [
     "wifi",
@@ -9,12 +9,13 @@
   ],
   "author": "Thibault Friedrich",
   "contributors": [
-    "Thibault Friedrich <thibault.friedrich@gmail.com> (https://thibaultfriedrich.io)"
+    "Thibault Friedrich <thibault.friedrich@gmail.com> (https://thibaultfriedrich.io)",
+    "Forked from git://github.com/friedrith/node-wifi.git"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/friedrith/node-wifi.git"
+    "url": "git://github.com/eltoroit/et-node-wifi.git"
   },
   "bugs": {
     "url": "https://github.com/friedrith/node-wifi/issues"
